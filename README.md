@@ -2,7 +2,7 @@
 
 ## REPO
 
-[REPO]()
+[REPO](https://github.com/issasalman/web-scraping)
 
 ## Pull request
-[PR]()
+[PR](https://github.com/issasalman/web-scraping/pull/1)
